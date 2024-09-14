@@ -1,1 +1,1 @@
-# This is my first locsl repo
+# This is my first local repo
